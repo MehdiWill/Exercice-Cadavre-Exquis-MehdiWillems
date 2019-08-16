@@ -14,5 +14,6 @@ Format: ![Alt Text](https://media.giphy.com/media/4J5AbUY4LmagU/giphy.gif)
 * et mange le barman
 * parce qu'il n y avait pas de *cacahuete* avec son verre
 * Il devint le gérant du bar
-
-
+* devenu mtn gérant du bar
+* il donna des *cacahuete* à tout les trolls qui commande du l'eau plate
+* et mangea le reste des clients
