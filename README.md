@@ -23,3 +23,7 @@ Format: ![Alt Text](https://media.giphy.com/media/4J5AbUY4LmagU/giphy.gif)
 * ce que le trool ne savait pas...
 * C'est que le barman et les clients dans sont ventre
 * deciderent d'ouvrir **un bar** et l'appelerent *"le ventre du trool"* 
+* Et dans ce ventre du trol, il y avait déjà un troll qui était là 
+* Il décida de manger toutes les personnes présente et le bar avec car...
+* il était jaloux de la fête qu'il y avait dans le ventre du troll qui l'avait mangé il y a 10 ans de ça,
+* et décida que pour se venger de cette acte carnivore la fête allait se passer dans son ventre à lui. :stuck_out_tongue_closed_eyes:
