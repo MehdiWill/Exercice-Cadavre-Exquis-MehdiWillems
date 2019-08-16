@@ -14,13 +14,9 @@ Format: ![Alt Text](https://media.giphy.com/media/4J5AbUY4LmagU/giphy.gif)
 * et mange le barman
 * parce qu'il n y avait pas de *cacahuete* avec son verre
 * Il devint le gérant du bar
-<<<<<<< HEAD
 * Il regarde alors le verre qu'il avait commandé
 * Il s'apperçois alors que l'eau est plate
 * Et il s'est dit qu'il alors la preuve que la terre et plate
-
-=======
 * devenu mtn gérant du bar
 * il donna des *cacahuete* à tout les trolls qui commande du l'eau plate
 * et mangea le reste des clients
->>>>>>> edec9aa86b03618a41a86a5821bdd5a1821899db
