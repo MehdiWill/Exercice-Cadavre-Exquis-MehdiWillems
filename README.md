@@ -14,5 +14,7 @@ Format: ![Alt Text](https://media.giphy.com/media/4J5AbUY4LmagU/giphy.gif)
 * et mange le barman
 * parce qu'il n y avait pas de *cacahuete* avec son verre
 * Il devint le gérant du bar
-
+* Il regarde alors le verre qu'il avait commandé
+* Il s'apperçois alors que l'eau est plate
+* Et il s'est dit qu'il alors la preuve que la terre et plate
 
