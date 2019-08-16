@@ -20,3 +20,6 @@ Format: ![Alt Text](https://media.giphy.com/media/4J5AbUY4LmagU/giphy.gif)
 * devenu mtn gérant du bar
 * il donna des *cacahuete* à tout les trolls qui commande du l'eau plate
 * et mangea le reste des clients
+* ce que le trool ne savait pas...
+* C'est que le barman et les clients dans sont ventre
+* deciderent d'ouvrir **un bar** et l'appelerent *"le ventre du trool"* 
